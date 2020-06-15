@@ -13,13 +13,10 @@ _{detailed desc}_
 
 | Spec| Example input | Example Output
 | ----------- | ----------- | ----------- |
-| Keeps track of locations you've been, displays below the form | "Kansas" | "Kansas" |
+| User enters a locatoin they have visited, displays in the output | "Kansas" | "Kansas" |
+| Addition details about the location/visit are saved when the form is submitted | "4/15/205">"Rose Garden, Timber's Stadium, Pioneer Square">"It rained the whole time but the food was great" | n/a |
 | When the location is clicked from the output, previously user entered details about the visit will display | click: "Portland" | "4/15/205">"Rose Garden, Timber's Stadium, Pioneer Square">"It rained the whole time but the food was great" |
-| Behavior | input | output |
-| Behavior | input | output |
-| Behavior | input | output |
-| Behavior | input | output |
-| Behavior | input | output |
+
 
 ## Setup/Installation Requirements
 

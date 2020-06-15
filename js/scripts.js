@@ -15,7 +15,7 @@ function Location(location, date, landmarks, notes) {
 
 
 
-location1 = new Location()
+location1 = new Location("portland", "", )
 
 
 
